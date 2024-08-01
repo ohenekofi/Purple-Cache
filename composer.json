@@ -1,0 +1,21 @@
+{
+    "name": "purple/cache",
+    "description": "a comprehensive psr16 cache app",
+    "type": "library",
+    "require": {
+        "psr/simple-cache": "^3.0",
+        "predis/predis": "^2.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Purple\\Cache\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ohenekofi",
+            "email": "kobbengh@gmail.com"
+        }
+    ]
+}
