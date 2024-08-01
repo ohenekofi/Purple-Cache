@@ -6,7 +6,7 @@ The Purple Cache Library provides a flexible caching mechanism for your applicat
 ## Installation
 To install the Purple Cache Library, use Composer:
 ```bash
-composer require purple/cache
+composer require purpleharmonie/cache
 ```
 
 ## Cache Types
