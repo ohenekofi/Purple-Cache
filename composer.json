@@ -1,5 +1,5 @@
 {
-    "name": "purple/cache",
+    "name": "purpleharmonie/cache",
     "description": "a comprehensive psr16 cache app",
     "type": "library",
     "require": {
